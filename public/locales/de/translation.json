@@ -12,5 +12,8 @@
     "Log In": "Anmelden",
     "Enter a username": "Benutzername eingeben",
     "Enter password": "Passwort eingeben",
-    "Enter": "Eingeben"
+    "Enter": "Eingeben",
+    "Log Out": "Abmelden",
+    "Authorization form": "Autorisationsformular",
+    "You entered an incorrect login or password": "Sie haben ein falsches Login oder Passwort eingegeben"
 }
