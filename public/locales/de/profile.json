@@ -2,5 +2,13 @@
   "Profile": "Profil",
   "Edit": "Bearbeiten",
   "Your last name": "Ihr Nachname",
-  "Your name": "Ihr Vorname"
+  "Your name": "Ihr Vorname",
+  "Your age": "Ihr Alter",
+  "Your city": "Ihre Stadt",
+  "Save": "Speichern",
+  "Cancel": "Abbrechen",
+  "An error occurred while loading a profile": "Beim Laden eines Profils ist ein Fehler aufgetreten",
+  "Try refreshing the page": "Versuchen Sie, die Seite zu aktualisieren",
+  "Enter your user name": "Geben Sie Ihren Benutzernamen ein",
+  "Enter avatar link": "Avatar-Link eingeben"
 }
