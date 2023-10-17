@@ -10,5 +10,12 @@
   "An error occurred while loading a profile": "Beim Laden eines Profils ist ein Fehler aufgetreten",
   "Try refreshing the page": "Versuchen Sie, die Seite zu aktualisieren",
   "Enter your user name": "Geben Sie Ihren Benutzernamen ein",
-  "Enter avatar link": "Avatar-Link eingeben"
+  "Enter avatar link": "Avatar-Link eingeben",
+  "Enter currency": "Geben Sie die Währung an",
+  "Indicate the country": "Geben Sie das Land an",
+  "Server error on saving": "Serverfehler beim Speichern",
+  "Incorrect region": "Falsche Region",
+  "Data not stated": "Daten nicht angegeben",
+  "First and last name are required": "Vor- und Nachname sind erforderlich",
+  "Incorrect age": "Falsches Alter"
 }

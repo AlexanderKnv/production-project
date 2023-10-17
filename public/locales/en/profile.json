@@ -10,5 +10,12 @@
   "An error occurred while loading a profile": "An error occurred while loading a profile",
   "Try refreshing the page": "Try refreshing the page",
   "Enter your user name": "Enter your user name",
-  "Enter avatar link": "Enter avatar link"
+  "Enter avatar link": "Enter avatar link",
+  "Enter currency": "Enter currency",
+  "Indicate the country": "Indicate the country",
+  "Server error on saving": "Server error on saving",
+  "Incorrect region": "Incorrect region",
+  "Data not stated": "Data not stated",
+  "First and last name are required": "First and last name are required",
+  "Incorrect age": "Incorrect age"
 }
