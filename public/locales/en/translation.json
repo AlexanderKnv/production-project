@@ -19,5 +19,7 @@
     "Profile": "Profile",
     "Enter currency": "Enter currency",
     "Indicate the country": "Indicate the country",
-    "Articles": "Articles"
+    "Articles": "Articles",
+    "Article not found": "Article not found",
+    "Error when loading an article.": "Error when loading an article."
 }
