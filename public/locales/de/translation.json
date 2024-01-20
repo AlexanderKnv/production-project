@@ -21,5 +21,7 @@
     "Indicate the country": "Geben Sie das Land an",
     "Articles": "Artikel",
     "Article not found": "Artikel nicht gefunden",
-    "Error when loading an article.": "Fehler beim Laden eines Artikels."
+    "Error when loading an article.": "Fehler beim Laden eines Artikels.",
+    "Comments": "Kommentare",
+    "There are no comments": "Es gibt keine Kommentare"
 }
